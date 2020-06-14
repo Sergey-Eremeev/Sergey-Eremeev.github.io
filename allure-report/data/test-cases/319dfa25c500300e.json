@@ -1,5 +1,5 @@
 {
-  "uid" : "1468ebf4c319f4d",
+  "uid" : "319dfa25c500300e",
   "name" : "Запрос информации о пользователе c id: 10 ",
   "fullName" : "test.test_coolrocket#test_user_information_request_by_id",
   "historyId" : "836ce5517c4bd3384c290970fff33ee8",
@@ -142,21 +142,21 @@
       "hasContent" : true
     } ],
     "attachments" : [ {
-      "uid" : "c4763d704dbc8e44",
+      "uid" : "80d8d335943bc765",
       "name" : "Invalid document",
-      "source" : "c4763d704dbc8e44.attach",
+      "source" : "80d8d335943bc765.attach",
       "type" : "text/plain",
       "size" : 184
     }, {
-      "uid" : "4009a7f002e97368",
+      "uid" : "b062b7d053b0c38",
       "name" : "schema TestResponseOfTestUser",
-      "source" : "4009a7f002e97368.attach",
+      "source" : "b062b7d053b0c38.attach",
       "type" : "text/plain",
       "size" : 370
     }, {
-      "uid" : "cd53f4955615587d",
+      "uid" : "a07b292dc4ab8d36",
       "name" : "schema TestUser",
-      "source" : "cd53f4955615587d.attach",
+      "source" : "a07b292dc4ab8d36.attach",
       "type" : "text/plain",
       "size" : 584
     } ],
@@ -203,6 +203,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1468ebf4c319f4d.json",
+  "source" : "319dfa25c500300e.json",
   "parameterValues" : [ "10" ]
 }

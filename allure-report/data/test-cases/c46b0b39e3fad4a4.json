@@ -1,5 +1,5 @@
 {
-  "uid" : "63a296601e317cdd",
+  "uid" : "c46b0b39e3fad4a4",
   "name" : "Запрос списка идентификаторов пользователей по критерию: female ",
   "fullName" : "test.test_coolrocket#test_get_list_of_user_id_by_gender",
   "historyId" : "d0e900c7a9fdf216bdda1754b0dd80fd",
@@ -127,15 +127,15 @@
       "hasContent" : true
     } ],
     "attachments" : [ {
-      "uid" : "2be908d26deb04fc",
+      "uid" : "f9ea1ea7f2cf323d",
       "name" : "Invalid document",
-      "source" : "2be908d26deb04fc.attach",
+      "source" : "f9ea1ea7f2cf323d.attach",
       "type" : "text/plain",
       "size" : 85
     }, {
-      "uid" : "cd4b5f1d4aabd763",
+      "uid" : "1fe06012d5d97c81",
       "name" : "schema",
-      "source" : "cd4b5f1d4aabd763.attach",
+      "source" : "1fe06012d5d97c81.attach",
       "type" : "text/plain",
       "size" : 543
     } ],
@@ -182,6 +182,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "63a296601e317cdd.json",
+  "source" : "c46b0b39e3fad4a4.json",
   "parameterValues" : [ "'female'" ]
 }

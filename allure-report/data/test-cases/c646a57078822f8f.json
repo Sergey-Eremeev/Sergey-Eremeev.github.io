@@ -1,5 +1,5 @@
 {
-  "uid" : "468867ebe1859e60",
+  "uid" : "c646a57078822f8f",
   "name" : "Некорректный запрос, ожидается статус код 400: ",
   "fullName" : "test.test_coolrocket#test_bad_request_expected_status_code_400",
   "historyId" : "ef0d5cfbe3cc43769c15d900237f5df8",
@@ -140,22 +140,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "40a204ac6285386a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1592168108690,
-        "stop" : 1592168108802,
-        "duration" : 112
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "468867ebe1859e60.json",
+  "source" : "c646a57078822f8f.json",
   "parameterValues" : [ ]
 }

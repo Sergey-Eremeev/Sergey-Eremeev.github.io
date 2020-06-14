@@ -1,5 +1,5 @@
 {
-  "uid" : "430da02aadbe707b",
+  "uid" : "4a7e4aa1efc1a7f2",
   "name" : "Запрос списка идентификаторов пользователей по критерию: male",
   "fullName" : "test.test_coolrocket#test_get_list_of_user_id_by_gender",
   "historyId" : "cbc9598b68aeca4f3a2c0b1c4f767419",
@@ -127,15 +127,15 @@
       "hasContent" : true
     } ],
     "attachments" : [ {
-      "uid" : "fdc1af233bbf03b3",
+      "uid" : "daf227323b024d61",
       "name" : "Invalid document",
-      "source" : "fdc1af233bbf03b3.attach",
+      "source" : "daf227323b024d61.attach",
       "type" : "text/plain",
       "size" : 90
     }, {
-      "uid" : "b8b69690d3239280",
+      "uid" : "82c723b4d893d399",
       "name" : "schema",
-      "source" : "b8b69690d3239280.attach",
+      "source" : "82c723b4d893d399.attach",
       "type" : "text/plain",
       "size" : 433
     } ],
@@ -176,27 +176,12 @@
     "value" : "'male'"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "de88b96e0df0a974",
-      "status" : "broken",
-      "statusDetails" : "Exception: 'success' is a required property",
-      "time" : {
-        "start" : 1592168108136,
-        "stop" : 1592168108254,
-        "duration" : 118
-      }
-    } ],
-    "categories" : [ {
-      "name" : "Test defects",
-      "matchedStatuses" : [ ],
-      "flaky" : false
-    } ],
+    "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "430da02aadbe707b.json",
+  "source" : "4a7e4aa1efc1a7f2.json",
   "parameterValues" : [ "'male'" ]
 }

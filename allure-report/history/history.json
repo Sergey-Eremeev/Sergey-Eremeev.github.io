@@ -9,32 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fbf2b0f237c50a0a",
+      "uid" : "a61ea57897c92c72",
       "status" : "broken",
       "statusDetails" : "Exception: 'success' is a required property",
       "time" : {
-        "start" : 1592168913588,
-        "stop" : 1592168913678,
-        "duration" : 90
-      }
-    } ]
-  },
-  "ef0d5cfbe3cc43769c15d900237f5df8" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "468867ebe1859e60",
-      "status" : "passed",
-      "time" : {
-        "start" : 1592168914270,
-        "stop" : 1592168914836,
-        "duration" : 566
+        "start" : 1592178398581,
+        "stop" : 1592178398680,
+        "duration" : 99
       }
     } ]
   },
@@ -48,13 +29,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e357cb68eccc8db7",
+      "uid" : "3f4ec376eaa64d10",
       "status" : "broken",
       "statusDetails" : "Exception: 'success' is a required property",
       "time" : {
-        "start" : 1592168913852,
-        "stop" : 1592168914224,
-        "duration" : 372
+        "start" : 1592178399137,
+        "stop" : 1592178399243,
+        "duration" : 106
+      }
+    } ]
+  },
+  "ef0d5cfbe3cc43769c15d900237f5df8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c4d57c4eff1945c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592178399285,
+        "stop" : 1592178399383,
+        "duration" : 98
       }
     } ]
   },
@@ -68,13 +68,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "430da02aadbe707b",
+      "uid" : "776453a718ed9dea",
       "status" : "broken",
       "statusDetails" : "Exception: 'success' is a required property",
       "time" : {
-        "start" : 1592168913412,
-        "stop" : 1592168913528,
-        "duration" : 116
+        "start" : 1592178398414,
+        "stop" : 1592178398527,
+        "duration" : 113
       }
     } ]
   },
@@ -88,13 +88,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e391535f21bcf342",
+      "uid" : "b6b34312f860195b",
       "status" : "broken",
       "statusDetails" : "Exception: 'success' is a required property",
       "time" : {
-        "start" : 1592168913711,
-        "stop" : 1592168913820,
-        "duration" : 109
+        "start" : 1592178398716,
+        "stop" : 1592178399125,
+        "duration" : 409
       }
     } ]
   }

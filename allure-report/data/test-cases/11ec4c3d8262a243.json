@@ -1,5 +1,5 @@
 {
-  "uid" : "de88b96e0df0a974",
+  "uid" : "11ec4c3d8262a243",
   "name" : "Запрос списка идентификаторов пользователей по критерию: male ",
   "fullName" : "test.test_coolrocket#test_get_list_of_user_id_by_gender",
   "historyId" : "cbc9598b68aeca4f3a2c0b1c4f767419",
@@ -127,15 +127,15 @@
       "hasContent" : true
     } ],
     "attachments" : [ {
-      "uid" : "5613555349ae60c2",
+      "uid" : "11668517c4199f4c",
       "name" : "Invalid document",
-      "source" : "5613555349ae60c2.attach",
+      "source" : "11668517c4199f4c.attach",
       "type" : "text/plain",
       "size" : 90
     }, {
-      "uid" : "3610e7afb36a6752",
+      "uid" : "57b053de1edadbbe",
       "name" : "schema",
-      "source" : "3610e7afb36a6752.attach",
+      "source" : "57b053de1edadbbe.attach",
       "type" : "text/plain",
       "size" : 543
     } ],
@@ -182,6 +182,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "de88b96e0df0a974.json",
+  "source" : "11ec4c3d8262a243.json",
   "parameterValues" : [ "'male'" ]
 }

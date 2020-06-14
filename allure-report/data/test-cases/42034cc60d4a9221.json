@@ -1,5 +1,5 @@
 {
-  "uid" : "e391535f21bcf342",
+  "uid" : "42034cc60d4a9221",
   "name" : "Запрос информации о пользователе c id: 10 ",
   "fullName" : "test.test_coolrocket#test_user_information_request_by_id",
   "historyId" : "836ce5517c4bd3384c290970fff33ee8",
@@ -142,21 +142,21 @@
       "hasContent" : true
     } ],
     "attachments" : [ {
-      "uid" : "8f080ef455f3552b",
+      "uid" : "22d0ca3edce940e7",
       "name" : "Invalid document",
-      "source" : "8f080ef455f3552b.attach",
+      "source" : "22d0ca3edce940e7.attach",
       "type" : "text/plain",
       "size" : 184
     }, {
-      "uid" : "2c2ddd215853f4b7",
+      "uid" : "fa0a9e80982dc9cb",
       "name" : "schema TestResponseOfTestUser",
-      "source" : "2c2ddd215853f4b7.attach",
+      "source" : "fa0a9e80982dc9cb.attach",
       "type" : "text/plain",
       "size" : 370
     }, {
-      "uid" : "241ac8e42d8f2a0",
+      "uid" : "72b5a155ced0595d",
       "name" : "schema TestUser",
-      "source" : "241ac8e42d8f2a0.attach",
+      "source" : "72b5a155ced0595d.attach",
       "type" : "text/plain",
       "size" : 584
     } ],
@@ -197,27 +197,12 @@
     "value" : "10"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "1468ebf4c319f4d",
-      "status" : "broken",
-      "statusDetails" : "Exception: 'success' is a required property",
-      "time" : {
-        "start" : 1592168108420,
-        "stop" : 1592168108527,
-        "duration" : 107
-      }
-    } ],
-    "categories" : [ {
-      "name" : "Test defects",
-      "matchedStatuses" : [ ],
-      "flaky" : false
-    } ],
+    "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e391535f21bcf342.json",
+  "source" : "42034cc60d4a9221.json",
   "parameterValues" : [ "10" ]
 }

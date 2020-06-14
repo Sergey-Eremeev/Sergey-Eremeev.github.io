@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Запрос списка идентификаторов пользователей по критерию: male",
+    "uid" : "430da02aadbe707b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1592168913412,
+      "stop" : 1592168913528,
+      "duration" : 116
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'male'" ]
+  }, {
+    "name" : "Запрос списка идентификаторов пользователей по критерию: female",
+    "uid" : "fbf2b0f237c50a0a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1592168913588,
+      "stop" : 1592168913678,
+      "duration" : 90
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'female'" ]
+  }, {
+    "name" : "Запрос информации о пользователе c id: 10 ",
+    "uid" : "e391535f21bcf342",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1592168913711,
+      "stop" : 1592168913820,
+      "duration" : 109
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "10" ]
+  }, {
+    "name" : "Запрос информации о пользователе c id: 15 ",
+    "uid" : "e357cb68eccc8db7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1592168913852,
+      "stop" : 1592168914224,
+      "duration" : 372
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "15" ]
+  }, {
+    "name" : "Некорректный запрос, ожидается статус код 400: ",
+    "uid" : "468867ebe1859e60",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592168914270,
+      "stop" : 1592168914836,
+      "duration" : 566
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

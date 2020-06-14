@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Exception: 'success' is a required property",
+      "children" : [ {
+        "name" : "Запрос списка идентификаторов пользователей по критерию: male",
+        "uid" : "430da02aadbe707b",
+        "parentUid" : "b2d5f4dfccbc906dbb201fe7649c2de2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592168913412,
+          "stop" : 1592168913528,
+          "duration" : 116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'male'" ]
+      }, {
+        "name" : "Запрос списка идентификаторов пользователей по критерию: female",
+        "uid" : "fbf2b0f237c50a0a",
+        "parentUid" : "b2d5f4dfccbc906dbb201fe7649c2de2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592168913588,
+          "stop" : 1592168913678,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'female'" ]
+      }, {
+        "name" : "Запрос информации о пользователе c id: 10 ",
+        "uid" : "e391535f21bcf342",
+        "parentUid" : "b2d5f4dfccbc906dbb201fe7649c2de2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592168913711,
+          "stop" : 1592168913820,
+          "duration" : 109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "10" ]
+      }, {
+        "name" : "Запрос информации о пользователе c id: 15 ",
+        "uid" : "e357cb68eccc8db7",
+        "parentUid" : "b2d5f4dfccbc906dbb201fe7649c2de2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592168913852,
+          "stop" : 1592168914224,
+          "duration" : 372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "15" ]
+      } ],
+      "uid" : "b2d5f4dfccbc906dbb201fe7649c2de2"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

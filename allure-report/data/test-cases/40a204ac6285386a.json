@@ -1,0 +1,151 @@
+{
+  "uid" : "40a204ac6285386a",
+  "name" : "Некорректный запрос, ожидается статус код 400: ",
+  "fullName" : "test.test_coolrocket#test_bad_request_expected_status_code_400",
+  "historyId" : "ef0d5cfbe3cc43769c15d900237f5df8",
+  "time" : {
+    "start" : 1592168108690,
+    "stop" : 1592168108802,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Выполняется запрос GET https://dev.coolrocket.com/api/test/usersgender",
+      "time" : {
+        "start" : 1592168108690,
+        "stop" : 1592168108798,
+        "duration" : 108
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка статус кода, ожидается 400",
+      "time" : {
+        "start" : 1592168108799,
+        "stop" : 1592168108799,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка кодировки, ожидается utf-8",
+      "time" : {
+        "start" : 1592168108799,
+        "stop" : 1592168108799,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка \"Content-Type\", ожидается \"application/json\"",
+      "time" : {
+        "start" : 1592168108799,
+        "stop" : 1592168108799,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Получение json",
+      "time" : {
+        "start" : 1592168108800,
+        "stop" : 1592168108800,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Валидация по Схеме ErrorDTO",
+      "time" : {
+        "start" : 1592168108800,
+        "stop" : 1592168108801,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "suite",
+    "value" : "test_coolrocket"
+  }, {
+    "name" : "host",
+    "value" : "user-p"
+  }, {
+    "name" : "thread",
+    "value" : "51756-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_coolrocket"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40a204ac6285386a.json",
+  "parameterValues" : [ ]
+}

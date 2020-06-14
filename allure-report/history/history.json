@@ -1,0 +1,101 @@
+{
+  "d0e900c7a9fdf216bdda1754b0dd80fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbf2b0f237c50a0a",
+      "status" : "broken",
+      "statusDetails" : "Exception: 'success' is a required property",
+      "time" : {
+        "start" : 1592168913588,
+        "stop" : 1592168913678,
+        "duration" : 90
+      }
+    } ]
+  },
+  "ef0d5cfbe3cc43769c15d900237f5df8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "468867ebe1859e60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592168914270,
+        "stop" : 1592168914836,
+        "duration" : 566
+      }
+    } ]
+  },
+  "dbb683cd4392697b44e92d54ef621049" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e357cb68eccc8db7",
+      "status" : "broken",
+      "statusDetails" : "Exception: 'success' is a required property",
+      "time" : {
+        "start" : 1592168913852,
+        "stop" : 1592168914224,
+        "duration" : 372
+      }
+    } ]
+  },
+  "cbc9598b68aeca4f3a2c0b1c4f767419" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "430da02aadbe707b",
+      "status" : "broken",
+      "statusDetails" : "Exception: 'success' is a required property",
+      "time" : {
+        "start" : 1592168913412,
+        "stop" : 1592168913528,
+        "duration" : 116
+      }
+    } ]
+  },
+  "836ce5517c4bd3384c290970fff33ee8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e391535f21bcf342",
+      "status" : "broken",
+      "statusDetails" : "Exception: 'success' is a required property",
+      "time" : {
+        "start" : 1592168913711,
+        "stop" : 1592168913820,
+        "duration" : 109
+      }
+    } ]
+  }
+}

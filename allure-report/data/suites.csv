@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Jun 15 06:46:39 NOVT 2020","Mon Jun 15 06:46:39 NOVT 2020","98","test","test_coolrocket","","","","Некорректный запрос, ожидается статус код 400: ",""
-"broken","Mon Jun 15 06:46:39 NOVT 2020","Mon Jun 15 06:46:39 NOVT 2020","106","test","test_coolrocket","","","","Запрос информации о пользователе c id: 15 ",""
-"broken","Mon Jun 15 06:46:38 NOVT 2020","Mon Jun 15 06:46:38 NOVT 2020","99","test","test_coolrocket","","","","Запрос списка идентификаторов пользователей по критерию: female",""
-"broken","Mon Jun 15 06:46:38 NOVT 2020","Mon Jun 15 06:46:39 NOVT 2020","409","test","test_coolrocket","","","","Запрос информации о пользователе c id: 10 ",""
-"broken","Mon Jun 15 06:46:38 NOVT 2020","Mon Jun 15 06:46:38 NOVT 2020","113","test","test_coolrocket","","","","Запрос списка идентификаторов пользователей по критерию: male",""
